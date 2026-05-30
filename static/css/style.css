@@ -1,0 +1,34 @@
+body{
+    background:#111827;
+    color:white;
+}
+
+.card-custom{
+    background:#1f2937;
+    border:none;
+}
+
+video{
+    width:100%;
+    border-radius:10px;
+}
+
+canvas{
+    display:none;
+}
+
+.info-box{
+    background:#374151;
+    padding:15px;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+.result-text{
+    font-size:22px;
+    font-weight:bold;
+}
+
+.confidence{
+    color:#22c55e;
+}
