@@ -1,0 +1,11 @@
+mediapipe==0.10.5
+protobuf==3.20.3
+google-generativeai
+opencv-python
+pillow
+numpy
+pandas
+torch
+Flask
+Flask-SocketIO
+requests
