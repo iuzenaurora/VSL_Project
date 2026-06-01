@@ -29,7 +29,7 @@ NUM_ATTN_HEADS = 4
 NUM_TRANS_LAYERS = 2
 DROPOUT = 0.3
 
-CONFIDENCE_THRESHOLD = 0.1
+CONFIDENCE_THRESHOLD = 0.4
 PREDICTION_COOLDOWN = 18
 
 # =========================================================

@@ -32,7 +32,7 @@ pip install opencv-python pillow numpy pandas torch flask flask-socketio request
 
 ### Bước 3: Tải Dataset Video từ Google Drive
 Do giới hạn dung lượng của GitHub, thư mục chứa Video mẫu từ điển (`Dataset/Videos/`) đã được đưa vào `.gitignore`. 
-1. Truy cập vào link Google Drive sau: **[Chèn Link Google Drive của bạn vào đây]**
+1. Truy cập vào link Google Drive sau: **(https://drive.google.com/drive/folders/1ksouiA-BPrVndOlaq44wv1OVcAkxMEvA?usp=sharing)**
 2. Tải xuống toàn bộ tệp nén (hoặc thư mục).
 3. Giải nén và đặt các video vào đúng đường dẫn sau trong dự án:
    ```text
